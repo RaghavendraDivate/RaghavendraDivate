@@ -26,7 +26,7 @@ End-to-end fraud detection pipeline using transaction and identity data, with ex
 Machine learning project focused on using structured information to support risk-oriented triage and decision-making.
 
 **Semiconductor Inspection & Defect Analysis**
-Applied data science project focused on semiconductor inspection data, exploratory analysis, statistical investigation, and defect analysis.
+Applied data science project focused on semiconductor inspection data, exploratory analysis, statistical investigation, and defect analysis.(in-progress)
 
 **Digit Recognition using CNN**
 Computer vision project implementing a convolutional neural network for handwritten digit classification.
