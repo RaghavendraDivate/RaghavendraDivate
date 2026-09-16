@@ -8,7 +8,7 @@ I enjoy working with real-world datasets, understanding patterns through explora
 
 ### 🔍 What I Work With
 
-* **Programming:** Python, SQL, C
+* **Programming:** Python, SQL, R
 * **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Excel
 * **Machine Learning:** Scikit-learn, Regression, Classification, Feature Engineering, Model Evaluation
 * **Deep Learning:** Neural Networks, CNNs
