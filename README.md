@@ -35,7 +35,7 @@ I enjoy working with real-world datasets, uncovering patterns through explorator
 ### **Machine Learning & Deep Learning**
 - **ML Frameworks:** Scikit-learn, XGBoost, LightGBM, Random Forest
 - **Algorithms:** Regression, Classification, Feature Engineering, Model Evaluation, Imbalanced Classification
-- **Deep Learning:** PyTorch, TensorFlow/Keras, CNNs, Neural Networks
+- **Deep Learning:** PyTorch, CNNs, Neural Networks
 - **Specialized:** Fraud Detection, Risk Modeling, Time Series Analysis
 
 ### **AI & NLP**
