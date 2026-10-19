@@ -41,12 +41,9 @@ I enjoy working with real-world datasets, uncovering patterns through explorator
 ### **MLOps & Backend**
 - FastAPI, MLflow, Docker, CI, pytest
 
-### **NLP**
-- Natural Language Processing
-
 ### **Databases & Tools**
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Development:** Jupyter Notebook, Git, GitHub, VS Code, Streamlit, React
+- **Databases:** MySQL, MongoDB
+- **Development:** Jupyter Notebook, Git, GitHub, VS Code, React
 - **Clinical:** CDISC ADaM Standards, R Clinical Programming
 
 ---
@@ -81,7 +78,7 @@ A full-stack machine learning system for clinical decision support, combining di
 - Automated appointment scheduling with email confirmation
 - Admin analytics dashboard (Looker Studio)
 
-**Technologies:** React, FastAPI, Python, Scikit-learn, Streamlit, PostgreSQL
+**Technologies:** React, FastAPI, Python, Scikit-learn, Pandas, Looker Studio, MongoDB, BigQuery(GCP)
 
 **[View Project →](https://github.com/RaghavendraDivate/AI-powered-Triage-System)**
 
@@ -158,7 +155,7 @@ Exploratory data analysis of sports survey data with statistical insights and vi
 
 **Key Finding:** [ADD: one headline insight from the survey]
 
-**Technologies:** Python, Pandas, Matplotlib, Seaborn
+**Technologies:** Excel, Tableau
 
 **[View Project →](https://github.com/RaghavendraDivate/Sports-survey-Analysis)**
 
