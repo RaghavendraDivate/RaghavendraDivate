@@ -9,8 +9,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-013243?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
@@ -19,9 +19,17 @@
 
 ## 🚀 About Me
 
-I'm a **Data Science graduate from Bangalore Institute of Technology** with a passion for **Machine Learning, Statistical Analysis, and Applied Data Science**. 
+I'm a **Data Science graduate from Bangalore Institute of Technology** (B.E. Computer Science, Data Science; CGPA 8.3) with a passion for **Machine Learning, Statistical Analysis, and Applied Data Science**.
 
-I enjoy working with real-world datasets, uncovering patterns through exploratory analysis and statistical methods, and building machine learning solutions that solve practical problems. My experience spans end-to-end ML pipelines, from data engineering and feature engineering to model deployment and business impact analysis.
+I enjoy working with real-world datasets, uncovering patterns through exploratory analysis and statistical methods, and building machine learning solutions that solve practical problems. My experience spans end-to-end ML pipelines, from data and feature engineering to model deployment and business impact analysis.
+
+---
+
+## 💼 Experience
+
+**Data Analytics & Consulting Intern — MathCo** *(Feb 2026 – May 2026)*
+- Worked on analytics for consulting engagements, including propensity matching for causal impact analysis
+- [ADD: one concrete outcome, e.g. dataset size, metric, or business result]
 
 ---
 
@@ -29,23 +37,24 @@ I enjoy working with real-world datasets, uncovering patterns through explorator
 
 ### **Programming & Data**
 - **Languages:** Python, R, SQL
-- **Data Processing:** Pandas, NumPy, Tidyverse, Dplyr
-- **Visualization:** Matplotlib, Seaborn, ggplot2, Tableau, Power BI, Looker Studio
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI, Looker Studio
 
 ### **Machine Learning & Deep Learning**
-- **ML Frameworks:** Scikit-learn, XGBoost, LightGBM, Random Forest
-- **Algorithms:** Regression, Classification, Feature Engineering, Model Evaluation, Imbalanced Classification
-- **Deep Learning:** PyTorch, CNNs, Neural Networks
-- **Specialized:** Fraud Detection, Risk Modeling, Time Series Analysis
+- **ML Frameworks:** Scikit-learn, XGBoost, LightGBM
+- **Algorithms & Techniques:** Regression, Classification, Random Forest, Feature Engineering, Model Evaluation, Imbalanced Classification, Causal Inference (propensity matching)
+- **Deep Learning:** PyTorch, TensorFlow/Keras, CNNs, Neural Networks
+- **Specialized:** Fraud Detection, Risk Modeling
 
-### **AI & NLP**
-- Generative AI
+### **MLOps & Backend**
+- FastAPI, MLflow, Docker, CI, pytest
+
+### **NLP**
 - Natural Language Processing
-- Prompt Engineering
 
 ### **Databases & Tools**
-- **Databases:** MySQL, MongoDB
-- **Development:** Jupyter Notebook, Git, GitHub, VS Code, Streamlit
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Development:** Jupyter Notebook, Git, GitHub, VS Code, Streamlit, React
 - **Clinical:** CDISC ADaM Standards, R Clinical Programming
 
 ---
@@ -53,16 +62,17 @@ I enjoy working with real-world datasets, uncovering patterns through explorator
 ## 📊 Featured Projects
 
 ### 🎯 **Fraud Detection & Transaction Risk Modeling**
-**IEEE-CIS End-to-End Fraud Detection Pipeline**
+**IEEE-CIS End-to-End Fraud Detection Pipeline with MLOps**
 
-An enterprise-grade fraud detection system that ranks transactions by risk severity rather than binary classification. Implements leakage-aware feature engineering, temporal validation, imbalanced classification, and cost-sensitive threshold analysis.
+A production-style fraud detection system that ranks transactions by risk severity rather than binary classification. Implements leakage-aware feature engineering, temporal validation, imbalanced classification, and cost-sensitive threshold analysis, served through a FastAPI service with experiment tracking, containerization, CI, and automated retraining/promotion logic.
 
 **Key Results:**
 - 87% precision at Top 1% investigation capacity
-- 56% fraud capture at Top 5% capacity with 39% precision  
+- 56% fraud capture at Top 5% capacity with 39% precision
 - XGBoost champion model with ROC-AUC of 0.9041
+- 132 pytest tests covering the pipeline and API
 
-**Technologies:** Python, XGBoost, LightGBM, Scikit-learn, Feature Engineering
+**Technologies:** Python, XGBoost, LightGBM, Scikit-learn, FastAPI, MLflow, Docker, pytest, CI
 
 **[View Project →](https://github.com/RaghavendraDivate/fraud-detection-transaction-risk-modeling)**
 
@@ -141,6 +151,8 @@ A foundational deep learning project implementing a CNN from scratch using PyTor
 
 Data analytics project analyzing Amazon delivery performance metrics using Power BI dashboards. Includes exploratory analysis, KPI tracking, and business intelligence visualizations.
 
+**Key Finding:** [ADD: one headline insight, e.g. what drives delivery delays]
+
 **Technologies:** Python, Power BI, Pandas, NumPy
 
 **[View Project →](https://github.com/RaghavendraDivate/Delivery-Performance-Analytics)**
@@ -151,6 +163,8 @@ Data analytics project analyzing Amazon delivery performance metrics using Power
 **Statistical Analysis & Data Exploration**
 
 Exploratory data analysis of sports survey data with statistical insights and visualizations.
+
+**Key Finding:** [ADD: one headline insight from the survey]
 
 **Technologies:** Python, Pandas, Matplotlib, Seaborn
 
@@ -171,21 +185,19 @@ Collection of web development projects from CODSOFT internship covering frontend
 
 ## 🎯 Current Focus & Learning
 
-I'm actively strengthening my expertise in:
-
-- 🧠 **Advanced Machine Learning** — Deep learning architectures, transformer models, attention mechanisms
-- 📈 **Statistical Analysis & Probability** — Bayesian inference, hypothesis testing, causal inference
-- 👁️ **Computer Vision** — Object detection, image segmentation, transfer learning
-- 📝 **NLP** — Text classification, sentiment analysis, embeddings
-- 💳 **Fraud & Risk Modeling** — Credit risk, anomaly detection, adversarial ML
-- ⚙️ **MLOps & Deployment** — Model serving, CI/CD pipelines, containerization
+- 🧠 **Deep Learning** — Transformer models, attention mechanisms
+- 📈 **Statistics** — Hypothesis testing, causal inference
+- 👁️ **Computer Vision** — Object detection, transfer learning
+- 📝 **NLP** — Text classification, embeddings
+- 💳 **Fraud & Risk Modeling** — Credit risk, anomaly detection
+- ⚙️ **MLOps** — Deepening model monitoring, retraining automation, and CI/CD
 
 ---
 
 ## 🏆 Key Achievements
 
-✅ **End-to-End ML Pipelines** — Multiple complete ML projects from data ingestion through model evaluation and insights  
-✅ **Imbalanced Classification** — Expertise in fraud detection with class imbalance handling  
+✅ **End-to-End ML Pipelines** — Multiple complete ML projects from data ingestion through model evaluation and serving  
+✅ **Imbalanced Classification** — Hands-on experience with fraud detection under heavy class imbalance  
 ✅ **Clinical & Regulatory Programming** — CDISC ADaM standards, clinical trial analysis  
 ✅ **Full-Stack Data Science** — From backend ML models to interactive frontends  
 ✅ **Statistical Rigor** — Hypothesis testing, causal analysis, proper validation strategies  
@@ -217,6 +229,6 @@ I believe in:
 
 <div align="center">
 
-**Last updated:** September 2026
+**Last updated:** October 2026
 
 </div>
