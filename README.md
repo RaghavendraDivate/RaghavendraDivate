@@ -25,14 +25,6 @@ I enjoy working with real-world datasets, uncovering patterns through explorator
 
 ---
 
-## 💼 Experience
-
-**Data Analytics & Consulting Intern — MathCo** *(Feb 2026 – May 2026)*
-- Worked on analytics for consulting engagements, including propensity matching for causal impact analysis
-- [ADD: one concrete outcome, e.g. dataset size, metric, or business result]
-
----
-
 ## 🔧 Technical Skills
 
 ### **Programming & Data**
